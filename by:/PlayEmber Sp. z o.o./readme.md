@@ -14,4 +14,5 @@ https://play.google.com/store/apps/details?id=com.pe.bitcoinhole,
 https://play.google.com/store/apps/details?id=com.pe.bitcointruckparking,
 https://play.google.com/store/apps/details?id=com.pe.bitcoincards,
 https://play.google.com/store/apps/details?id=com.pe.bitcoinpusher,
+https://play.google.com/store/apps/details?id=com.GHF.MakeCash,
 ]
